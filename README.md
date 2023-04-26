@@ -13,15 +13,15 @@ The server program will receive the message through socket, execute the task and
 
 ## Program Functionalities
 
--> We have two programs, a server and a client.
--> The client allows the user to specify the IP address of the server at the time of connection.
--> The client allows the user to first specify the user name at the connection setup time and all communication should display it.
--> The client provides an interface to apply the operations like create, delete, move, open, close, truncate, change directory, make directory etc.
--> The client gives errors when the server is not available.
--> The client displays the response of the actions performed.
--> The server responds to multiple requests at the same time using threads.
--> The server binds to port 95 whereas the client port can be any number higher than 1024. 
--> The server and clients can run on different machines.
+-> We have two programs, a server and a client. <br>
+-> The client allows the user to specify the IP address of the server at the time of connection. <br>
+-> The client allows the user to first specify the user name at the connection setup time and all communication should display it. <br>
+-> The client provides an interface to apply the operations like create, delete, move, open, close, truncate, change directory, make directory etc. <br>
+-> The client gives errors when the server is not available. <br>
+-> The client displays the response of the actions performed. <br>
+-> The server responds to multiple requests at the same time using threads. <br>
+-> The server binds to port 95 whereas the client port can be any number higher than 1024. <br>
+-> The server and clients can run on different machines. <br>
 
 ## Group Members
 
